@@ -10,12 +10,12 @@ Viotra (Budget & Expense) adalah aplikasi gratis *(freemium)*, Di-*support* oleh
 | Target | 2 | 15 | ∞ |
 | Kewajiban | 2 | 15 | ∞ |
 | Kategori | 6 | 35 | ∞ |
-| Tugas*** | 8 | 40 | ∞ |
-| RT**** | 50 | 370 | ∞ |
-| T. Exp** | 6 bln | 3 thn | ∞ |
+| Tugas\*\*\* | 8 | 40 | ∞ |
+| RT\*\*\*\* | 50 | 370 | ∞ |
+| T. Exp\*\* | 6 bln | 3 thn | ∞ |
 | __Harga/thn*__ | __Gratis__ | __Rp75.000__ | __Rp99.000__ |
 
 \* Harga dapat berubah sewaktu-waktu\
-** Tgl kadaluarsa suatu riwayat transaksi\
-*** Tugas yang aktif secara bersamaan\
-**** Item dalam riwayat transaksi
+\*\* Tgl kadaluarsa suatu riwayat transaksi\
+\*\*\* Tugas yang aktif secara bersamaan\
+\*\*\*\* Item dalam riwayat transaksi
