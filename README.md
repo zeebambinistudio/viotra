@@ -15,7 +15,7 @@ Viotra membantu kamu dalam:
 
 ## Informasi Legal
 Sebagai transparansi dan penghormatan terhadap privasi pengguna, kami menyediakan dokumen berikut:
-- [Kebijakan Privasi (Privacy Policy)](https://https://zeebambinistudio.github.io/viotra/legal/privacy-policy)
+- [Kebijakan Privasi (Privacy Policy)](https://zeebambinistudio.github.io/viotra/legal/privacy-policy)
 - [Ketentuan Layanan (Terms of Service)](https://zeebambinistudio.github.io/viotra/legal/terms-of-service)
 - [Penghapusan Akun](https://zeebambinistudio.github.io/viotra/legal/delete-my-account)
 
