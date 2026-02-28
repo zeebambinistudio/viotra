@@ -5,7 +5,7 @@
 Viotra adalah aplikasi pencatatan keuangan pribadi yang dikembangkan oleh __Zee Bambini Studio__. Kami menghargai dan melindungi privasi pengguna. Dokumen ini menjelaskan bagaimana data pengguna dikumpulkan, digunakan, dan dilindungi.
 
 ### Status Legal Sistem Elektronik
-Viotra telah terdaftar sebagai Penyelenggara Sistem Elektronik (PSE) pada Kementerian Komunikasi dan Digital Republik Indonesia.
+Viotra telah terdaftar sebagai Penyelenggara Sistem Elektronik (PSE) pada Kementerian Komunikasi dan Digital Republik Indonesia.\
 Nomor TDPSE: 022446.01/DJAI.PSE/02/2026
 
 ## Data yang Kami Kumpulkan
@@ -18,7 +18,7 @@ Data yang dikumpulkan digunakan untuk:
 - Menyediakan fitur utama aplikasi Viotra,
 - Menampilkan grafik, laporan, dan analisis keuangan.
 - Menjaga keamanan sistem dan akun pengguna,
-- Memperbaiki bug dan meningkatkan kualitas aplikasi.
+- Memperbaiki bug dan meningkatkan kualitas aplikasi.\
 Kami __TIDAK__ menjual, menyewakan, atau membagikan data pribadi maupun data keuangan pengguna kepada pihak ketiga untuk tujuan iklan.
 
 ## Layanan Pihak Ketiga

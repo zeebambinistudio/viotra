@@ -43,7 +43,8 @@ Viotra (Budget & Expense) adalah aplikasi gratis *(freemium)*, Di-*support* oleh
 Kalo kamu butuh bantuan atau punya pertanyaan, hubungi kami di:
 zeebambinistudio@gmail.com
 
-*Made with ♡ by Zee Bambini Studio*
+*Made with ♡ by Zee Bambini Studio*\
+NIB: 0708210010205\
 [Instagram](https://instagram.com/zeebambini) | 
 [YouTube](https://youtube.com/@rokhmanabdillah) | 
 [LinkedIn](https://linkedin.com/in/rokhmanabdillah)
