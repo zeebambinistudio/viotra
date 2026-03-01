@@ -15,7 +15,9 @@ Selamat datang di Viotra. Dengan mengunduh, mengakses, atau menggunakan aplikasi
 - Penyalahgunaan fitur (seperti *spamming* atau upaya peretasan) akan mengakibatkan pemblokiran permanen.
 
 ## Kekayaan Intelektual
-- Seluruh desain, logo, kode program, dan konten dalam aplikasi Viotra adalah milik Zee bambini Studio.
+- Logo, kode program, dan konten dalam aplikasi Viotra adalah milik Zee bambini Studio.
+- Desain visual dalam aplikasi Viotra dapat menggunakan aset dari pihak ketiga (seperti ilustrasi dan ikon) yang dilisensikan secara sah.
+- Seluruh aset pihak ketiga tetap menjadi milik pemilik lisensi masing-masing.
 - Dilarang menyalin atau mendistribusikan ulang bagian mana pun dari aplikasi ini tanpa izin tertulis.
 
 ## Batasan Tanggung Jawab
