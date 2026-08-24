@@ -45,7 +45,7 @@ void main() async {
           'name': values[0].trim(),
           'date': values[1].trim(),
           'msg': values[2].trim(),
-          'amnt': double.tryParse(values[3].trim()) ?? 0,
+          'amnt': double.tryParse(values[3].trim())?.toInt() ?? 0,
         });
       }
     }
