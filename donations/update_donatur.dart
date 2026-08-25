@@ -2,16 +2,16 @@
 import 'dart:io';
 import 'dart:convert';
 
+// COLORS
+final String reset = '\x1B[0m';
+final String red = '\x1B[31m';
+final String green = '\x1B[32m';
+final String yellow = '\x1B[33m';
+
 void main() async {
   // CONFIG
   final csvFile = File('donatur.csv');
   final jsonFile = File('donatur.json');
-
-  // COLORS
-  const reset = '\x1B[0m';
-  const red = '\x1B[31m';
-  const green = '\x1B[32m';
-  const yellow = '\x1B[33m';
 
   // csv lookup
   print('${yellow}Checking CSV...$reset');
@@ -59,6 +59,19 @@ void main() async {
     exit(1);
   }
 
+  print('Do you want to proceed to sync git? (y/n):');
+
+  // read user input
+  String? input = stdin.readLineSync();
+  if (input != null && input.toLowerCase() == 'y') {
+    tryToGit();
+  } else {
+    print('${green}Exiting program.$reset');
+    exit(0);
+  }
+}
+
+void tryToGit() async {
   // TIME TO GIT
   print('\n${yellow}Synchronizing Git...$reset');
 
