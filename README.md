@@ -5,7 +5,9 @@ Viotra adalah aplikasi pencatatan keuangan sederhana yang dirancang untuk memban
 Aplikasi ini berfokus pada pelacakan keuangan, membantu kamu memantau pendapatan, pengeluaran, dan kebiasaan keuangan secara terstruktur. Aplikasi tersedia di platform Android (Google Play segera hadir), dan website.
 
 ## Tentang Viotra
+
 Viotra membantu kamu dalam:
+
 - Mencatat pendapatan dan pengeluaran harian,
 - Memantau aktivitas keuangan,
 - Mengatur anggaran, target keuangan, dan liabilitas,
@@ -14,37 +16,18 @@ Viotra membantu kamu dalam:
 - Membangun kesadaran keuangan yang lebih baik.
 
 ## Informasi Legal
+
 Sebagai transparansi dan penghormatan terhadap privasi pengguna, kami menyediakan dokumen berikut:
+
 - [Kebijakan Privasi (Privacy Policy)](https://zeebambinistudio.github.io/viotra/legal/privacy-policy)
 - [Ketentuan Layanan (Terms of Service)](https://zeebambinistudio.github.io/viotra/legal/terms-of-service)
 - [Penghapusan Akun](https://zeebambinistudio.github.io/viotra/legal/delete-my-account)
 
-## Paket Langganan
-Viotra (Budget & Expense) adalah aplikasi gratis *(freemium)*, Di-*support* oleh infrastruktur standar industri, dan di-*maintain* oleh indie developer. Dengan berlangganan Anda menjadi bagian kami dalam menjaga layanan ini tetap berkelanjutan, berikut adalah paket yang kami sediakan:
-
-| Item/Paket | Pengembara | Pebisnis | Penguasa |
-|:--:|:--:|:--:|:--:|
-| Bebas Iklan | ✓ | ✓ | ✓ |
-| Dompet | 4 | 25 | ∞ |
-| Anggaran | 4 | 25 | ∞ |
-| Target | 2 | 15 | ∞ |
-| Kewajiban | 2 | 15 | ∞ |
-| Kategori | 6 | 35 | ∞ |
-| Tugas\*\*\* | 8 | 40 | ∞ |
-| RT\*\*\*\* | 50 | 370 | ∞ |
-| T. Exp\*\* | 6 bln | 3 thn | ∞ |
-| __Harga/thn*__ | __Gratis__ | __Rp75.000__ | __Rp99.000__ |
-
-\* Harga dapat berubah sewaktu-waktu\
-\*\* Tgl kadaluarsa suatu riwayat transaksi\
-\*\*\* Tugas yang aktif secara bersamaan\
-\*\*\*\* Item dalam riwayat transaksi
-
 Kalo kamu butuh bantuan atau punya pertanyaan, hubungi kami di:
 zeebambinistudio@gmail.com
 
-*Made with ♡ by Zee Bambini Studio*\
+_Made with ♡ by ZeeBambini Studio_\
 NIB: 0708210010205\
-[Instagram](https://instagram.com/zeebambini) | 
-[YouTube](https://youtube.com/@rokhmanabdillah) | 
+[Instagram](https://instagram.com/zeebambini) |
+[YouTube](https://youtube.com/@rokhmanabdillah) |
 [LinkedIn](https://linkedin.com/in/rokhmanabdillah)
